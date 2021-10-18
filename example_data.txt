@@ -1,0 +1,6 @@
+Prénom, Nom, Age, Genre
+Theo, Fassi, 16, M
+Timothée, Vannier, 18, M
+David, Plessix, 39, F
+Nicolas, Libert, 41, M
+Quentin, Lemardeley, 24, M
